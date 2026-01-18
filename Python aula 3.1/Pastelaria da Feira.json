@@ -1,0 +1,27 @@
+[
+    {
+        "item": "Pastel de Carne",
+        "price": "9.00",
+        "descripition": "Massa crocante com recheio de carne mo\u00edda temperada."
+    },
+    {
+        "item": "Pastel de Queijo",
+        "price": "9.00",
+        "descripition": "Massa crocante com queijo mussarela derretido."
+    },
+    {
+        "item": "Pastel de Frango",
+        "price": "10.00",
+        "descripition": "Recheio de frango desfiado com milho."
+    },
+    {
+        "item": "Caldo de Cana 500ml",
+        "price": "8.00",
+        "descripition": "Caldo de cana extra\u00eddo na hora, bem gelado."
+    },
+    {
+        "item": "Coxinha de Frango",
+        "price": "7.00",
+        "descripition": "Salgado frito com massa de batata e frango."
+    }
+]

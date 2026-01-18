@@ -1,0 +1,52 @@
+[
+    {
+        "item": "Picanha na T\u00e1bua",
+        "price": "120.00",
+        "descripition": "500g de picanha grelhada acompanhada de farofa."
+    },
+    {
+        "item": "Costela no Bafo",
+        "price": "95.00",
+        "descripition": "Costela bovina cozida lentamente por 12 horas."
+    },
+    {
+        "item": "Arroz Carreteiro",
+        "price": "35.00",
+        "descripition": "Arroz temperado com carne seca e tempero caseiro."
+    },
+    {
+        "item": "Espetinho Misto",
+        "price": "15.00",
+        "descripition": "Espeto de carne, frango e lingui\u00e7a."
+    },
+    {
+        "item": "Maionese de Batata",
+        "price": "12.00",
+        "descripition": "Salada de batata com maionese da casa."
+    },
+    {
+        "item": "P\u00e3o de Alho Especial",
+        "price": "8.00",
+        "descripition": "P\u00e3o baguete recheado com creme de alho e queijo."
+    },
+    {
+        "item": "Cerveja Artesanal",
+        "price": "22.00",
+        "descripition": "Garrafa de 600ml de IPA produzida localmente."
+    },
+    {
+        "item": "Petit G\u00e2teau",
+        "price": "25.00",
+        "descripition": "Bolinho quente de chocolate com sorvete de creme."
+    },
+    {
+        "item": "Caipirinha de Lim\u00e3o",
+        "price": "18.00",
+        "descripition": "Drink cl\u00e1ssico com cacha\u00e7a, lim\u00e3o e a\u00e7\u00facar."
+    },
+    {
+        "item": "Ancho Grelhado",
+        "price": "85.00",
+        "descripition": "Corte nobre de contrafil\u00e9 macio e suculento."
+    }
+]

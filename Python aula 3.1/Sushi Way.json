@@ -1,0 +1,52 @@
+[
+    {
+        "item": "Combinado 20 Pe\u00e7as",
+        "price": "65.00",
+        "descripition": "Mix de sashimis, niguiris e uramakis variados."
+    },
+    {
+        "item": "Temaki de Salm\u00e3o",
+        "price": "24.00",
+        "descripition": "Cone de alga recheado com arroz e salm\u00e3o fresco."
+    },
+    {
+        "item": "Hot Roll",
+        "price": "22.00",
+        "descripition": "Enrolado frito com recheio de peixe e cream cheese."
+    },
+    {
+        "item": "Sashimi de Atum",
+        "price": "30.00",
+        "descripition": "10 fatias de atum fresco fatiadas na hora."
+    },
+    {
+        "item": "Uramaki Filad\u00e9lfia",
+        "price": "20.00",
+        "descripition": "Enrolado com arroz por fora e recheio de salm\u00e3o."
+    },
+    {
+        "item": "Sunomono",
+        "price": "12.00",
+        "descripition": "Salada de pepino agridoce com gergelim."
+    },
+    {
+        "item": "Gyoza Bovino",
+        "price": "18.00",
+        "descripition": "5 unidades de pastel chin\u00eas grelhado."
+    },
+    {
+        "item": "Shimeji na Chapa",
+        "price": "28.00",
+        "descripition": "Cogumelos refogados na manteiga e shoyu."
+    },
+    {
+        "item": "Harumaki de Queijo",
+        "price": "10.00",
+        "descripition": "2 unidades de rolinho primavera crocante."
+    },
+    {
+        "item": "Ch\u00e1 Verde Gelado",
+        "price": "8.00",
+        "descripition": "Copo de 400ml de ch\u00e1 verde refrescante."
+    }
+]

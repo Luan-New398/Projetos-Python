@@ -1,0 +1,52 @@
+[
+    {
+        "item": "Classic Burger",
+        "price": "32.00",
+        "descripition": "P\u00e3o brioche, carne 150g, queijo cheddar e picles."
+    },
+    {
+        "item": "Bacon Lover",
+        "price": "38.00",
+        "descripition": "Hamb\u00farguer com triplo bacon e maionese defumada."
+    },
+    {
+        "item": "Veggie Burger",
+        "price": "34.00",
+        "descripition": "Hamb\u00farguer de gr\u00e3o-de-bico com salada fresca."
+    },
+    {
+        "item": "Batata R\u00fastica",
+        "price": "15.00",
+        "descripition": "Batatas com casca e tempero de ervas finas."
+    },
+    {
+        "item": "Onion Rings",
+        "price": "17.00",
+        "descripition": "An\u00e9is de cebola empanados e fritos."
+    },
+    {
+        "item": "Milkshake de Chocolate",
+        "price": "19.00",
+        "descripition": "Sorvete cremoso batido com calda de chocolate."
+    },
+    {
+        "item": "Nuggets de Frango",
+        "price": "14.00",
+        "descripition": "6 unidades de peito de frango empanado."
+    },
+    {
+        "item": "Molho Barbecue",
+        "price": "3.00",
+        "descripition": "Pote pequeno de molho barbecue caseiro."
+    },
+    {
+        "item": "Refrigerante Lata",
+        "price": "6.50",
+        "descripition": "Lata de 350ml (Coca-Cola, Guaran\u00e1 ou Fanta)."
+    },
+    {
+        "item": "Combo Casal",
+        "price": "85.00",
+        "descripition": "2 Hamb\u00fargueres, 2 batatas e 2 refrigerantes."
+    }
+]

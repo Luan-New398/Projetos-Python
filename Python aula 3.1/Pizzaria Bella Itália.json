@@ -1,0 +1,52 @@
+[
+    {
+        "item": "Pizza Margherita",
+        "price": "45.00",
+        "descripition": "Molho de tomate natural, mussarela de b\u00fafala e manjeric\u00e3o fresco."
+    },
+    {
+        "item": "Pizza de Pepperoni",
+        "price": "55.00",
+        "descripition": "Mussarela, fatias de pepperoni artesanal e or\u00e9gano."
+    },
+    {
+        "item": "Pizza Quatro Queijos",
+        "price": "58.00",
+        "descripition": "Combina\u00e7\u00e3o de mussarela, provolone, parmes\u00e3o e gorgonzola."
+    },
+    {
+        "item": "Calzone de Frango",
+        "price": "42.00",
+        "descripition": "Pizza fechada recheada com frango desfiado e catupiry."
+    },
+    {
+        "item": "Focaccia de Alecrim",
+        "price": "25.00",
+        "descripition": "Massa fina com sal grosso, azeite e alecrim."
+    },
+    {
+        "item": "Lasanha \u00e0 Bolonhesa",
+        "price": "48.00",
+        "descripition": "Massa artesanal intercalada com molho de carne e queijo."
+    },
+    {
+        "item": "Espaguete \u00e0 Carbonara",
+        "price": "44.00",
+        "descripition": "Massa com ovos, queijo pecorino e bacon crocante."
+    },
+    {
+        "item": "Bruschetta Tradicional",
+        "price": "18.00",
+        "descripition": "P\u00e3o italiano torrado com tomates e alho."
+    },
+    {
+        "item": "Tiramis\u00f9",
+        "price": "22.00",
+        "descripition": "Sobremesa de caf\u00e9, biscoito champagne e creme de mascarpone."
+    },
+    {
+        "item": "Vinho Tinto Seco",
+        "price": "75.00",
+        "descripition": "Garrafa de vinho tinto da casa 750ml."
+    }
+]

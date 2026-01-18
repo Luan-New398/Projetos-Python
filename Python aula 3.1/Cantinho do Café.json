@@ -1,0 +1,52 @@
+[
+    {
+        "item": "Espresso Curto",
+        "price": "6.00",
+        "descripition": "Caf\u00e9 intenso e encorpado de 30ml."
+    },
+    {
+        "item": "Cappuccino Italiano",
+        "price": "12.00",
+        "descripition": "Caf\u00e9 com leite vaporizado e canela."
+    },
+    {
+        "item": "P\u00e3o de Queijo Mineiro",
+        "price": "5.50",
+        "descripition": "P\u00e3o de queijo quentinho com queijo canastra."
+    },
+    {
+        "item": "Bolo de Cenoura",
+        "price": "9.00",
+        "descripition": "Fatia de bolo com cobertura de chocolate."
+    },
+    {
+        "item": "Croissant de Presunto",
+        "price": "14.00",
+        "descripition": "Massa folhada recheada com presunto e queijo."
+    },
+    {
+        "item": "Mocha Chocolate",
+        "price": "15.00",
+        "descripition": "Caf\u00e9, leite e calda de chocolate belga."
+    },
+    {
+        "item": "Suco de Laranja",
+        "price": "10.00",
+        "descripition": "Suco natural espremido na hora 300ml."
+    },
+    {
+        "item": "Quiche de Alho Por\u00f3",
+        "price": "16.00",
+        "descripition": "Torta salgada de massa fina e recheio cremoso."
+    },
+    {
+        "item": "Brownie de Nozes",
+        "price": "11.00",
+        "descripition": "Brownie denso de chocolate com peda\u00e7os de nozes."
+    },
+    {
+        "item": "\u00c1gua Mineral",
+        "price": "4.50",
+        "descripition": "Garrafa de 500ml sem g\u00e1s."
+    }
+]
