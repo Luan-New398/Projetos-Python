@@ -1,0 +1,332 @@
+[
+  {
+    "Company": "Pizzaria Bella Itália",
+    "Item": "Pizza Margherita",
+    "price": "45.00",
+    "descripition": "Molho de tomate natural, mussarela de búfala e manjericão fresco."
+  },
+  {
+    "Company": "Pizzaria Bella Itália",
+    "Item": "Pizza de Pepperoni",
+    "price": "55.00",
+    "descripition": "Mussarela, fatias de pepperoni artesanal e orégano."
+  },
+  {
+    "Company": "Pizzaria Bella Itália",
+    "Item": "Pizza Quatro Queijos",
+    "price": "58.00",
+    "descripition": "Combinação de mussarela, provolone, parmesão e gorgonzola."
+  },
+  {
+    "Company": "Pizzaria Bella Itália",
+    "Item": "Calzone de Frango",
+    "price": "42.00",
+    "descripition": "Pizza fechada recheada com frango desfiado e catupiry."
+  },
+  {
+    "Company": "Pizzaria Bella Itália",
+    "Item": "Focaccia de Alecrim",
+    "price": "25.00",
+    "descripition": "Massa fina com sal grosso, azeite e alecrim."
+  },
+  {
+    "Company": "Pizzaria Bella Itália",
+    "Item": "Lasanha à Bolonhesa",
+    "price": "48.00",
+    "descripition": "Massa artesanal intercalada com molho de carne e queijo."
+  },
+  {
+    "Company": "Pizzaria Bella Itália",
+    "Item": "Espaguete à Carbonara",
+    "price": "44.00",
+    "descripition": "Massa com ovos, queijo pecorino e bacon crocante."
+  },
+  {
+    "Company": "Pizzaria Bella Itália",
+    "Item": "Bruschetta Tradicional",
+    "price": "18.00",
+    "descripition": "Pão italiano torrado com tomates e alho."
+  },
+  {
+    "Company": "Pizzaria Bella Itália",
+    "Item": "Tiramisù",
+    "price": "22.00",
+    "descripition": "Sobremesa de café, biscoito champagne e creme de mascarpone."
+  },
+  {
+    "Company": "Pizzaria Bella Itália",
+    "Item": "Vinho Tinto Seco",
+    "price": "75.00",
+    "descripition": "Garrafa de vinho tinto da casa 750ml."
+  },
+  {
+    "Company": "Burger King da Vila",
+    "Item": "Classic Burger",
+    "price": "32.00",
+    "descripition": "Pão brioche, carne 150g, queijo cheddar e picles."
+  },
+  {
+    "Company": "Burger King da Vila",
+    "Item": "Bacon Lover",
+    "price": "38.00",
+    "descripition": "Hambúrguer com triplo bacon e maionese defumada."
+  },
+  {
+    "Company": "Burger King da Vila",
+    "Item": "Veggie Burger",
+    "price": "34.00",
+    "descripition": "Hambúrguer de grão-de-bico com salada fresca."
+  },
+  {
+    "Company": "Burger King da Vila",
+    "Item": "Batata Rústica",
+    "price": "15.00",
+    "descripition": "Batatas com casca e tempero de ervas finas."
+  },
+  {
+    "Company": "Burger King da Vila",
+    "Item": "Onion Rings",
+    "price": "17.00",
+    "descripition": "Anéis de cebola empanados e fritos."
+  },
+  {
+    "Company": "Burger King da Vila",
+    "Item": "Milkshake de Chocolate",
+    "price": "19.00",
+    "descripition": "Sorvete cremoso batido com calda de chocolate."
+  },
+  {
+    "Company": "Burger King da Vila",
+    "Item": "Nuggets de Frango",
+    "price": "14.00",
+    "descripition": "6 unidades de peito de frango empanado."
+  },
+  {
+    "Company": "Burger King da Vila",
+    "Item": "Molho Barbecue",
+    "price": "3.00",
+    "descripition": "Pote pequeno de molho barbecue caseiro."
+  },
+  {
+    "Company": "Burger King da Vila",
+    "Item": "Refrigerante Lata",
+    "price": "6.50",
+    "descripition": "Lata de 350ml (Coca-Cola, Guaraná ou Fanta)."
+  },
+  {
+    "Company": "Burger King da Vila",
+    "Item": "Combo Casal",
+    "price": "85.00",
+    "descripition": "2 Hambúrgueres, 2 batatas e 2 refrigerantes."
+  },
+  {
+    "Company": "Sushi Way",
+    "Item": "Combinado 20 Peças",
+    "price": "65.00",
+    "descripition": "Mix de sashimis, niguiris e uramakis variados."
+  },
+  {
+    "Company": "Sushi Way",
+    "Item": "Temaki de Salmão",
+    "price": "24.00",
+    "descripition": "Cone de alga recheado com arroz e salmão fresco."
+  },
+  {
+    "Company": "Sushi Way",
+    "Item": "Hot Roll",
+    "price": "22.00",
+    "descripition": "Enrolado frito com recheio de peixe e cream cheese."
+  },
+  {
+    "Company": "Sushi Way",
+    "Item": "Sashimi de Atum",
+    "price": "30.00",
+    "descripition": "10 fatias de atum fresco fatiadas na hora."
+  },
+  {
+    "Company": "Sushi Way",
+    "Item": "Uramaki Filadélfia",
+    "price": "20.00",
+    "descripition": "Enrolado com arroz por fora e recheio de salmão."
+  },
+  {
+    "Company": "Sushi Way",
+    "Item": "Sunomono",
+    "price": "12.00",
+    "descripition": "Salada de pepino agridoce com gergelim."
+  },
+  {
+    "Company": "Sushi Way",
+    "Item": "Gyoza Bovino",
+    "price": "18.00",
+    "descripition": "5 unidades de pastel chinês grelhado."
+  },
+  {
+    "Company": "Sushi Way",
+    "Item": "Shimeji na Chapa",
+    "price": "28.00",
+    "descripition": "Cogumelos refogados na manteiga e shoyu."
+  },
+  {
+    "Company": "Sushi Way",
+    "Item": "Harumaki de Queijo",
+    "price": "10.00",
+    "descripition": "2 unidades de rolinho primavera crocante."
+  },
+  {
+    "Company": "Sushi Way",
+    "Item": "Chá Verde Gelado",
+    "price": "8.00",
+    "descripition": "Copo de 400ml de chá verde refrescante."
+  },
+  {
+    "Company": "Cantinho do Café",
+    "Item": "Espresso Curto",
+    "price": "6.00",
+    "descripition": "Café intenso e encorpado de 30ml."
+  },
+  {
+    "Company": "Cantinho do Café",
+    "Item": "Cappuccino Italiano",
+    "price": "12.00",
+    "descripition": "Café com leite vaporizado e canela."
+  },
+  {
+    "Company": "Cantinho do Café",
+    "Item": "Pão de Queijo Mineiro",
+    "price": "5.50",
+    "descripition": "Pão de queijo quentinho com queijo canastra."
+  },
+  {
+    "Company": "Cantinho do Café",
+    "Item": "Bolo de Cenoura",
+    "price": "9.00",
+    "descripition": "Fatia de bolo com cobertura de chocolate."
+  },
+  {
+    "Company": "Cantinho do Café",
+    "Item": "Croissant de Presunto",
+    "price": "14.00",
+    "descripition": "Massa folhada recheada com presunto e queijo."
+  },
+  {
+    "Company": "Cantinho do Café",
+    "Item": "Mocha Chocolate",
+    "price": "15.00",
+    "descripition": "Café, leite e calda de chocolate belga."
+  },
+  {
+    "Company": "Cantinho do Café",
+    "Item": "Suco de Laranja",
+    "price": "10.00",
+    "descripition": "Suco natural espremido na hora 300ml."
+  },
+  {
+    "Company": "Cantinho do Café",
+    "Item": "Quiche de Alho Poró",
+    "price": "16.00",
+    "descripition": "Torta salgada de massa fina e recheio cremoso."
+  },
+  {
+    "Company": "Cantinho do Café",
+    "Item": "Brownie de Nozes",
+    "price": "11.00",
+    "descripition": "Brownie denso de chocolate com pedaços de nozes."
+  },
+  {
+    "Company": "Cantinho do Café",
+    "Item": "Água Mineral",
+    "price": "4.50",
+    "descripition": "Garrafa de 500ml sem gás."
+  },
+  {
+    "Company": "Steakhouse Prime",
+    "Item": "Picanha na Tábua",
+    "price": "120.00",
+    "descripition": "500g de picanha grelhada acompanhada de farofa."
+  },
+  {
+    "Company": "Steakhouse Prime",
+    "Item": "Costela no Bafo",
+    "price": "95.00",
+    "descripition": "Costela bovina cozida lentamente por 12 horas."
+  },
+  {
+    "Company": "Steakhouse Prime",
+    "Item": "Arroz Carreteiro",
+    "price": "35.00",
+    "descripition": "Arroz temperado com carne seca e tempero caseiro."
+  },
+  {
+    "Company": "Steakhouse Prime",
+    "Item": "Espetinho Misto",
+    "price": "15.00",
+    "descripition": "Espeto de carne, frango e linguiça."
+  },
+  {
+    "Company": "Steakhouse Prime",
+    "Item": "Maionese de Batata",
+    "price": "12.00",
+    "descripition": "Salada de batata com maionese da casa."
+  },
+  {
+    "Company": "Steakhouse Prime",
+    "Item": "Pão de Alho Especial",
+    "price": "8.00",
+    "descripition": "Pão baguete recheado com creme de alho e queijo."
+  },
+  {
+    "Company": "Steakhouse Prime",
+    "Item": "Cerveja Artesanal",
+    "price": "22.00",
+    "descripition": "Garrafa de 600ml de IPA produzida localmente."
+  },
+  {
+    "Company": "Steakhouse Prime",
+    "Item": "Petit Gâteau",
+    "price": "25.00",
+    "descripition": "Bolinho quente de chocolate com sorvete de creme."
+  },
+  {
+    "Company": "Steakhouse Prime",
+    "Item": "Caipirinha de Limão",
+    "price": "18.00",
+    "descripition": "Drink clássico com cachaça, limão e açúcar."
+  },
+  {
+    "Company": "Steakhouse Prime",
+    "Item": "Ancho Grelhado",
+    "price": "85.00",
+    "descripition": "Corte nobre de contrafilé macio e suculento."
+  },
+  {
+    "Company": "Pastelaria da Feira",
+    "Item": "Pastel de Carne",
+    "price": "9.00",
+    "descripition": "Massa crocante com recheio de carne moída temperada."
+  },
+  {
+    "Company": "Pastelaria da Feira",
+    "Item": "Pastel de Queijo",
+    "price": "9.00",
+    "descripition": "Massa crocante com queijo mussarela derretido."
+  },
+  {
+    "Company": "Pastelaria da Feira",
+    "Item": "Pastel de Frango",
+    "price": "10.00",
+    "descripition": "Recheio de frango desfiado com milho."
+  },
+  {
+    "Company": "Pastelaria da Feira",
+    "Item": "Caldo de Cana 500ml",
+    "price": "8.00",
+    "descripition": "Caldo de cana extraído na hora, bem gelado."
+  },
+  {
+    "Company": "Pastelaria da Feira",
+    "Item": "Coxinha de Frango",
+    "price": "7.00",
+    "descripition": "Salgado frito com massa de batata e frango."
+  }
+]
